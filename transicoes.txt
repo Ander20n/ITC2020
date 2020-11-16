@@ -1,0 +1,7 @@
+q0
+qf
+q0 0 q0 B D
+q0 1 q1 B D
+q1 1 q1 B D
+q1 B qf B D
+ 
